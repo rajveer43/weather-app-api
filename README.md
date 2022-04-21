@@ -31,8 +31,6 @@
 
 ## Description
 
-<p>The most common API beginner project must be the one that includes using the Weather API, and I got you covered! The <b>Weather API Challenge</b> will not only include working with more complex response, but it comes with a twist.</p>
-
 <p>Often times APIs aren't perfectly "fitting" into what the interface expects, so this challenge took a bit different direction and is about making some data manipulation before showing it to the user</p>
 
 <p>You will learn how to use jQuery and its native $.getJSON method to call the API as well as a concept such as Classes in JavaScript. It's gonna be fun and challenging, but don't give up, we're levelling up!</p>
